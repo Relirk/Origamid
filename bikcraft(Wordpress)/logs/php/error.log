@@ -1,0 +1,52 @@
+[14-May-2019 04:55:51 UTC] PHP Parse error:  syntax error, unexpected ')' in /app/public/wp-content/themes/bikcraft/inc/qualidade.php on line 9
+[14-May-2019 04:57:03 UTC] PHP Warning:  Illegal string offset 'ID' in /app/public/wp-content/plugins/advanced-custom-fields-pro/api/api-field-group.php on line 365
+[14-May-2019 04:57:03 UTC] PHP Warning:  Illegal string offset 'title' in /app/public/wp-content/plugins/advanced-custom-fields-pro/api/api-field-group.php on line 366
+[14-May-2019 04:57:03 UTC] PHP Warning:  Illegal string offset 'key' in /app/public/wp-content/plugins/advanced-custom-fields-pro/api/api-field-group.php on line 367
+[14-May-2019 04:57:03 UTC] PHP Warning:  Cannot assign an empty string to a string offset in /app/public/wp-content/plugins/advanced-custom-fields-pro/api/api-field-group.php on line 367
+[14-May-2019 04:57:03 UTC] PHP Warning:  Illegal string offset 'menu_order' in /app/public/wp-content/plugins/advanced-custom-fields-pro/api/api-field-group.php on line 368
+[14-May-2019 04:57:03 UTC] PHP Warning:  Illegal string offset 'active' in /app/public/wp-content/plugins/advanced-custom-fields-pro/api/api-field-group.php on line 369
+[14-May-2019 04:57:03 UTC] PHP Warning:  Illegal string offset 'key' in /app/public/wp-content/plugins/advanced-custom-fields-pro/api/api-field-group.php on line 373
+[14-May-2019 05:35:04 UTC] PHP Warning:  Illegal string offset 'ID' in /app/public/wp-content/plugins/advanced-custom-fields-pro/api/api-field-group.php on line 365
+[14-May-2019 05:35:04 UTC] PHP Warning:  Illegal string offset 'title' in /app/public/wp-content/plugins/advanced-custom-fields-pro/api/api-field-group.php on line 366
+[14-May-2019 05:35:04 UTC] PHP Warning:  Illegal string offset 'key' in /app/public/wp-content/plugins/advanced-custom-fields-pro/api/api-field-group.php on line 367
+[14-May-2019 05:35:04 UTC] PHP Warning:  Cannot assign an empty string to a string offset in /app/public/wp-content/plugins/advanced-custom-fields-pro/api/api-field-group.php on line 367
+[14-May-2019 05:35:04 UTC] PHP Warning:  Illegal string offset 'menu_order' in /app/public/wp-content/plugins/advanced-custom-fields-pro/api/api-field-group.php on line 368
+[14-May-2019 05:35:04 UTC] PHP Warning:  Illegal string offset 'active' in /app/public/wp-content/plugins/advanced-custom-fields-pro/api/api-field-group.php on line 369
+[14-May-2019 05:35:04 UTC] PHP Warning:  Illegal string offset 'key' in /app/public/wp-content/plugins/advanced-custom-fields-pro/api/api-field-group.php on line 373
+[14-May-2019 20:34:40 UTC] PHP Warning:  Illegal string offset 'ID' in /app/public/wp-content/plugins/advanced-custom-fields-pro/api/api-field-group.php on line 365
+[14-May-2019 20:34:40 UTC] PHP Warning:  Illegal string offset 'title' in /app/public/wp-content/plugins/advanced-custom-fields-pro/api/api-field-group.php on line 366
+[14-May-2019 20:34:40 UTC] PHP Warning:  Illegal string offset 'key' in /app/public/wp-content/plugins/advanced-custom-fields-pro/api/api-field-group.php on line 367
+[14-May-2019 20:34:40 UTC] PHP Warning:  Cannot assign an empty string to a string offset in /app/public/wp-content/plugins/advanced-custom-fields-pro/api/api-field-group.php on line 367
+[14-May-2019 20:34:40 UTC] PHP Warning:  Illegal string offset 'menu_order' in /app/public/wp-content/plugins/advanced-custom-fields-pro/api/api-field-group.php on line 368
+[14-May-2019 20:34:40 UTC] PHP Warning:  Illegal string offset 'active' in /app/public/wp-content/plugins/advanced-custom-fields-pro/api/api-field-group.php on line 369
+[14-May-2019 20:34:40 UTC] PHP Warning:  Illegal string offset 'key' in /app/public/wp-content/plugins/advanced-custom-fields-pro/api/api-field-group.php on line 373
+[14-May-2019 20:58:03 UTC] PHP Warning:  Illegal string offset 'ID' in /app/public/wp-content/plugins/advanced-custom-fields-pro/api/api-field-group.php on line 365
+[14-May-2019 20:58:03 UTC] PHP Warning:  Illegal string offset 'title' in /app/public/wp-content/plugins/advanced-custom-fields-pro/api/api-field-group.php on line 366
+[14-May-2019 20:58:03 UTC] PHP Warning:  Illegal string offset 'key' in /app/public/wp-content/plugins/advanced-custom-fields-pro/api/api-field-group.php on line 367
+[14-May-2019 20:58:03 UTC] PHP Warning:  Cannot assign an empty string to a string offset in /app/public/wp-content/plugins/advanced-custom-fields-pro/api/api-field-group.php on line 367
+[14-May-2019 20:58:03 UTC] PHP Warning:  Illegal string offset 'menu_order' in /app/public/wp-content/plugins/advanced-custom-fields-pro/api/api-field-group.php on line 368
+[14-May-2019 20:58:03 UTC] PHP Warning:  Illegal string offset 'active' in /app/public/wp-content/plugins/advanced-custom-fields-pro/api/api-field-group.php on line 369
+[14-May-2019 20:58:03 UTC] PHP Warning:  Illegal string offset 'key' in /app/public/wp-content/plugins/advanced-custom-fields-pro/api/api-field-group.php on line 373
+[14-May-2019 21:03:16 UTC] PHP Warning:  Illegal string offset 'ID' in /app/public/wp-content/plugins/advanced-custom-fields-pro/api/api-field-group.php on line 365
+[14-May-2019 21:03:16 UTC] PHP Warning:  Illegal string offset 'title' in /app/public/wp-content/plugins/advanced-custom-fields-pro/api/api-field-group.php on line 366
+[14-May-2019 21:03:16 UTC] PHP Warning:  Illegal string offset 'key' in /app/public/wp-content/plugins/advanced-custom-fields-pro/api/api-field-group.php on line 367
+[14-May-2019 21:03:16 UTC] PHP Warning:  Cannot assign an empty string to a string offset in /app/public/wp-content/plugins/advanced-custom-fields-pro/api/api-field-group.php on line 367
+[14-May-2019 21:03:16 UTC] PHP Warning:  Illegal string offset 'menu_order' in /app/public/wp-content/plugins/advanced-custom-fields-pro/api/api-field-group.php on line 368
+[14-May-2019 21:03:16 UTC] PHP Warning:  Illegal string offset 'active' in /app/public/wp-content/plugins/advanced-custom-fields-pro/api/api-field-group.php on line 369
+[14-May-2019 21:03:16 UTC] PHP Warning:  Illegal string offset 'key' in /app/public/wp-content/plugins/advanced-custom-fields-pro/api/api-field-group.php on line 373
+[14-May-2019 21:03:34 UTC] PHP Warning:  Illegal string offset 'ID' in /app/public/wp-content/plugins/advanced-custom-fields-pro/api/api-field-group.php on line 365
+[14-May-2019 21:03:34 UTC] PHP Warning:  Illegal string offset 'title' in /app/public/wp-content/plugins/advanced-custom-fields-pro/api/api-field-group.php on line 366
+[14-May-2019 21:03:34 UTC] PHP Warning:  Illegal string offset 'key' in /app/public/wp-content/plugins/advanced-custom-fields-pro/api/api-field-group.php on line 367
+[14-May-2019 21:03:34 UTC] PHP Warning:  Cannot assign an empty string to a string offset in /app/public/wp-content/plugins/advanced-custom-fields-pro/api/api-field-group.php on line 367
+[14-May-2019 21:03:34 UTC] PHP Warning:  Illegal string offset 'menu_order' in /app/public/wp-content/plugins/advanced-custom-fields-pro/api/api-field-group.php on line 368
+[14-May-2019 21:03:34 UTC] PHP Warning:  Illegal string offset 'active' in /app/public/wp-content/plugins/advanced-custom-fields-pro/api/api-field-group.php on line 369
+[14-May-2019 21:03:34 UTC] PHP Warning:  Illegal string offset 'key' in /app/public/wp-content/plugins/advanced-custom-fields-pro/api/api-field-group.php on line 373
+[14-May-2019 21:39:45 UTC] PHP Parse error:  syntax error, unexpected ',' in /app/public/wp-content/themes/bikcraft/functions.php on line 18
+[14-May-2019 23:10:54 UTC] PHP Warning:  Illegal string offset 'ID' in /app/public/wp-content/plugins/advanced-custom-fields-pro/api/api-field-group.php on line 365
+[14-May-2019 23:10:54 UTC] PHP Warning:  Illegal string offset 'title' in /app/public/wp-content/plugins/advanced-custom-fields-pro/api/api-field-group.php on line 366
+[14-May-2019 23:10:54 UTC] PHP Warning:  Illegal string offset 'key' in /app/public/wp-content/plugins/advanced-custom-fields-pro/api/api-field-group.php on line 367
+[14-May-2019 23:10:54 UTC] PHP Warning:  Cannot assign an empty string to a string offset in /app/public/wp-content/plugins/advanced-custom-fields-pro/api/api-field-group.php on line 367
+[14-May-2019 23:10:54 UTC] PHP Warning:  Illegal string offset 'menu_order' in /app/public/wp-content/plugins/advanced-custom-fields-pro/api/api-field-group.php on line 368
+[14-May-2019 23:10:54 UTC] PHP Warning:  Illegal string offset 'active' in /app/public/wp-content/plugins/advanced-custom-fields-pro/api/api-field-group.php on line 369
+[14-May-2019 23:10:54 UTC] PHP Warning:  Illegal string offset 'key' in /app/public/wp-content/plugins/advanced-custom-fields-pro/api/api-field-group.php on line 373
+[21-May-2019 05:45:58 UTC] PHP Warning:  Error while sending QUERY packet. PID=545 in /app/public/wp-includes/wp-db.php on line 2007

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="wpdb_bikcraft" uuid="5cfcd6e0-dbea-4bdc-8f77-0a2da66f3144">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="MYSQL" exact-version="0" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>root</user-name>
+      <introspection-schemas>*:*</introspection-schemas>
+      <ssh-properties>
+        <enabled>false</enabled>
+        <proxy-host>192.168.95.100</proxy-host>
+        <proxy-port>4006</proxy-port>
+        <user>root</user>
+        <use-password>true</use-password>
+        <auth-type>PASSWORD</auth-type>
+      </ssh-properties>
+    </data-source>
+  </component>
+</project>
